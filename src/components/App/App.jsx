@@ -9,7 +9,6 @@ function App() {
     <div>
       <h1>Phonebook</h1>
       <ContactForm />
-      <hr />
       <SearchBox />
       <ContactList />
     </div>
